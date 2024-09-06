@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    name: "Sandwhich",
+    name: "Sandwhich",   
     price: "$1.00",
     emoji: "🥪",
     currency: "USD",
